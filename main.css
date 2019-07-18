@@ -1,0 +1,178 @@
+/*navbar part*/
+.navbar {
+	background-color: #494ca2;
+	color: #fff;
+	font-size: 1.2rem;
+}
+.navbar-brand {
+	font-family: 'Ubuntu', sans-serif;
+	margin-left: 5%;
+	margin-right: 3%;
+}
+.nav-item {
+	font-family: 'Ubuntu', sans-serif;
+	/*margin-right: 3%;*/
+}
+/*52437b*/
+
+/*image part*/
+#first-img {
+	width: 100%;
+}
+#avatar-img {
+	width: 50%;
+	display: block;
+	margin: auto;
+	clip-path: circle();
+}
+#computer-div {
+	padding-right: 0;
+	position: relative;
+}
+.caption {
+    /*width:100%;
+    height: 40%;
+    background:rgba(0,0,0,0.5);
+    color:#ffffff;
+    position:absolute;
+    bottom: 0;
+    text-align: center;*/
+    /*padding-top: 30px;*/
+    background-color: rgba(0, 0, 0, 0.5);
+  	position: absolute;
+  	bottom: -7px;
+  	width: 100%;
+  	height: 100%;
+  	padding: 20px;
+  	display: block;
+  	color: white;
+  	font-family: 'Open Sans Condensed', sans-serif;
+  	padding-left: 15%;
+  	padding-top: 35%;
+  	line-height: 1.5;
+  /*font-size: 24px;*/
+}
+
+#avatar-div {
+	/*padding-right: 0;*/
+	background-color: #494ca2;
+}
+#profile-name {
+	text-align: center;
+	margin-top: 6%;
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: bold;
+}
+#self-description {
+	text-align: center;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 10%;
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	line-height: 1.5;
+}
+#profile-email {
+	margin-top: 50px;
+	text-align: center;
+}
+#profile-phone {
+	color: #fff;
+	font-family: 'Montserrat', sans-serif;
+	margin-top: 5px;
+}
+#communication {
+	text-align: center;
+}
+.communication-icon {
+	color: #fff;
+	margin-right: 20px;
+}
+#download-div {
+	text-align: center;
+	margin-top: 40px;
+}
+#download {
+	text-align: center;
+	color: #fff;
+}
+#download-icon {
+	color: #fff;
+}
+
+
+
+
+/*about part*/
+#about {
+	background-color: #e3e7f1;
+	padding-bottom: 50px;
+}
+#education {
+	padding-bottom: 50px;
+}
+#skill {
+	padding-bottom: 50px;
+	background-color: #e3e7f1;
+}
+#project {
+	padding-bottom: 50px;
+}
+#contact {
+	padding-bottom: 50px;
+	background-color: #e3e7f1;
+}
+.title {
+	font-family: 'Indie Flower', cursive;
+	padding-top: 50px;
+	font-size: 50px;
+	color: #8186d5;
+}
+.subtitle {
+	font-family: 'Quicksand', sans-serif;
+	color: #8186d5;
+}
+.content {
+	margin-top: 40px;
+	font-family: 'Quicksand', sans-serif;
+	line-height: 1.5;
+	/*padding-bottom: 50px;*/
+	/*color: #8186d5;*/
+}
+.subcontent {
+	font-family: 'Quicksand', sans-serif;
+	line-height: 1.8;
+}
+
+#website-href {
+	color: #8186d5;
+
+}
+
+
+/*contact part*/
+.contact-communication-icon {
+	color: #8186d5;
+	margin-right: 30px;
+}
+
+#contact-download {
+	text-align: center;
+	color: #8186d5;
+}
+#contact-download-icon {
+	color: #8186d5;
+}
+#back {
+	color: #8186d5;
+	margin-left: 30px;
+}
+
+
+
+
+
+
+
+
